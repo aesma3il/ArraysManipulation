@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\ArrayManipulation\Source.cpp(175,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.obj : error LNK2019: unresolved external symbol "void __cdecl customSortArray(class std::vector<int,class std::allocator<int> > &)" (?customSortArray@@YAXAEAV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function main
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\ArrayManipulation\x64\Debug\ArrayManipulation.exe : fatal error LNK1120: 1 unresolved externals
