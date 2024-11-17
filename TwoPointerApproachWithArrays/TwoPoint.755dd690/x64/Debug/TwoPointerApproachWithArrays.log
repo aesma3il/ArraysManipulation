@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(67,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(81,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(104,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(133,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(155,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(217,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(238,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\Source.cpp(299,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TwoPointerApproachWithArrays.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\ArraysManipulation\TwoPointerApproachWithArrays\x64\Debug\TwoPointerApproachWithArrays.exe
