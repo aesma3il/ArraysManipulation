@@ -155,8 +155,7 @@ void removeElement(vector<int>& arr) {
     cout << endl;
 }
 
-// Additional function implementations can be added similarly for other operations.
-
+ 
 void checkLength(const vector<int>& arr) {
     int length = 0;
     for (int val : arr) length++;
